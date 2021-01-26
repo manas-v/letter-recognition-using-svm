@@ -30,3 +30,13 @@ Using the pixelated images, 16 features are derived for each image, such as the 
 15. xegvy correlation of x-ege with y (integer)
 16. y-ege mean edge count bottom to top (integer)
 17. yegvx correlation of y-ege with x (integer)
+
+## Structure of the Data
+Here the average of all attributes for the 26 letters are plotted in the form of a heatmap.
+
+![image](https://user-images.githubusercontent.com/59551550/105850388-a8ebdf00-6007-11eb-9fa4-f9feae3d0d50.png)
+
+## Comparing Kernel Performance
+In the experiment the performance of 10 kernels is compared the results of which are as follows
+
+![image](https://user-images.githubusercontent.com/59551550/105850618-f700e280-6007-11eb-9d31-5a4e3afeb438.png)
