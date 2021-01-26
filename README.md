@@ -1,1 +1,1 @@
-# letter-recognition-using-svm
+# Letter Recognition using SVM
