@@ -36,6 +36,25 @@ Here the average of all attributes for the 26 letters are plotted in the form of
 
 ![image](https://user-images.githubusercontent.com/59551550/105850388-a8ebdf00-6007-11eb-9fa4-f9feae3d0d50.png)
 
+## Classification
+### Support Vector Machine(SVM)
+Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection.
+Support Vector Classifier or SVC is capable of classification using multiple kernels (Different Kernel functions can be specified for the decision function). Common kernels are provided, but it is also possible to specify custom kernels. The four inbuilt kernels provided for classification are ‘linear’, ‘poly’, ‘rbf’(default), ‘sigmoid’.
+### SVC using PyKernels
+PyKernels is a python library for working with kernel methods in machine learning. It provides implementations of various kernel functions ranging from typical linear, polynomial or rbf ones through wawelet, fourier transformations, kernels for binary sequences and even kernels for labeled graphs.
+
+The ten kernels used in this project are:
+* Linear Kernel
+* RBF Kernel
+* Polynomial Kernel
+* Sigmoid Kernel
+* Cossim Kernel
+* InverseMultiquadratic Kernel
+* Laplacian Kernel
+* Log Kernel
+* TStudent Kernel
+* ANOVA Kernel
+
 ## Comparing Kernel Performance
 In the experiment the performance of 10 kernels is compared the results of which are as follows
 
